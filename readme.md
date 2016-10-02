@@ -26,11 +26,11 @@ creator:
 #### Starter code
 - Use this [rock song starter code](./code/starter-code/w2-3.2-rock-starter.ipynb).
 
-> [Rock song data solution code](./code/solution-code/w2-3.2-rock-solution.ipynb)
+> [Rock song data solution code](./code/solution-code/w2-3.2-rock-)
 
 **Bonus:**
 - After completing the rock song data, perform  all of the **same** requirements on this [real estate data](./assets/datasets/Sacramentorealestatetransactions.csv)!
 
 - Note: Here is the [real estate starter code](./code/starter-code/w2-3.2-realestate-starter.ipynb).
 
-> [Real estate data solution code](./code/solution-code/w2-3.2-realestate-solution.ipynb)
+> [Real estate data solution code](./code/solution-code/w2-3.2-realestate-)
